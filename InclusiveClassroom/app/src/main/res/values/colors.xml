@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="secondary_text_material_light">#020202</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cream">#fdf9d3</color>
+    <color name="success">#f47afa5d</color>
+    <color name="exit_color">#f1fd0c0c</color>
+    <color name="list">#f791ddfd</color>
+    <color name="yellow">#fffa63</color>
+</resources>

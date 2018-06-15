@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inclusive Classroom</string>
+    <string name="welcomeText">Sample Layout of our App</string>
+    <string name="about"> We are second year undergraduates pursuing B.Tech in Electrical Engineering from IIT Delhi. This app is made as a part of project Inclusive Classroom done during the course COP315 under Prof. M Balakrishnan. </string>
+</resources>
